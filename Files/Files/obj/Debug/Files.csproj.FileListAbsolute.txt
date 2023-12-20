@@ -1,0 +1,8 @@
+D:\prog\ПР 13\Files\Files\bin\Debug\Files.exe.config
+D:\prog\ПР 13\Files\Files\bin\Debug\Files.exe
+D:\prog\ПР 13\Files\Files\bin\Debug\Files.pdb
+D:\prog\ПР 13\Files\Files\obj\Debug\Files.csproj.AssemblyReference.cache
+D:\prog\ПР 13\Files\Files\obj\Debug\Files.csproj.SuggestedBindingRedirects.cache
+D:\prog\ПР 13\Files\Files\obj\Debug\Files.csproj.CoreCompileInputs.cache
+D:\prog\ПР 13\Files\Files\obj\Debug\Files.exe
+D:\prog\ПР 13\Files\Files\obj\Debug\Files.pdb
